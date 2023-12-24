@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-decoration-website/static/css/main.e0552fa5.css",
+    "main.js": "/react-decoration-website/static/js/main.f6774904.js",
+    "static/js/787.29bff39a.chunk.js": "/react-decoration-website/static/js/787.29bff39a.chunk.js",
+    "static/media/customer2.gif": "/react-decoration-website/static/media/customer2.8591d726f23f329e935c.gif",
+    "static/media/customer3.gif": "/react-decoration-website/static/media/customer3.388cd04c7f49b0320f5c.gif",
+    "static/media/call.gif": "/react-decoration-website/static/media/call.2a08a9feac7b08e58267.gif",
+    "static/media/service1.jpg": "/react-decoration-website/static/media/service1.dda62c842e0d72959718.jpg",
+    "static/media/customer4.gif": "/react-decoration-website/static/media/customer4.90c7cd0587da058c35bf.gif",
+    "static/media/medal.gif": "/react-decoration-website/static/media/medal.d38f0dd91a94124c6341.gif",
+    "static/media/delivery.gif": "/react-decoration-website/static/media/delivery.440e4651fa2ae333f1c3.gif",
+    "static/media/happy.gif": "/react-decoration-website/static/media/happy.878d457cc9db6477067c.gif",
+    "static/media/customer1.gif": "/react-decoration-website/static/media/customer1.642b12c125a1478200ab.gif",
+    "static/media/customer5.gif": "/react-decoration-website/static/media/customer5.b2bc9db429b440c5e7f5.gif",
+    "static/media/favorite.gif": "/react-decoration-website/static/media/favorite.3f7befbfb4ec6838d6aa.gif",
+    "static/media/service2.jpg": "/react-decoration-website/static/media/service2.f1799caa2968211a4753.jpg",
+    "static/media/service3.jpg": "/react-decoration-website/static/media/service3.74710942bafa208cdb50.jpg",
+    "static/media/herosection4.jpg": "/react-decoration-website/static/media/herosection4.70f3c5cdf3c6adb5aeb6.jpg",
+    "static/media/Contactus.jpg": "/react-decoration-website/static/media/Contactus.3592c2045d07761a7ca7.jpg",
+    "static/media/service4.jpg": "/react-decoration-website/static/media/service4.60592f1b1250707fedeb.jpg",
+    "static/media/herosection2.jpg": "/react-decoration-website/static/media/herosection2.cfdb8a161af0cfdf8581.jpg",
+    "static/media/herosection6.jpg": "/react-decoration-website/static/media/herosection6.ed2e05a90cab49ad7f25.jpg",
+    "static/media/verified.gif": "/react-decoration-website/static/media/verified.8592370a7c099585a0fb.gif",
+    "static/media/herosection5.jpg": "/react-decoration-website/static/media/herosection5.0b74b1873b06df985a14.jpg",
+    "static/media/herosection1.jpg": "/react-decoration-website/static/media/herosection1.386e7e76be2ea42ed426.jpg",
+    "static/media/herosection3.jpg": "/react-decoration-website/static/media/herosection3.c9ed189d1f28fd39a985.jpg",
+    "static/media/home.png": "/react-decoration-website/static/media/home.ec59392f37edf5697176.png",
+    "static/media/logo.svg": "/react-decoration-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-decoration-website/index.html",
+    "main.e0552fa5.css.map": "/react-decoration-website/static/css/main.e0552fa5.css.map",
+    "main.f6774904.js.map": "/react-decoration-website/static/js/main.f6774904.js.map",
+    "787.29bff39a.chunk.js.map": "/react-decoration-website/static/js/787.29bff39a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0552fa5.css",
+    "static/js/main.f6774904.js"
+  ]
+}
