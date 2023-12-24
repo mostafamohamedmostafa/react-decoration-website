@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: 'Hedvig Letters Serif', serif;
+  font-family: 'Texturina', serif !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.skewed {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #2c3e50;
+  z-index: 0;
+  transform: skewY(3deg);
+  transform-origin: top right;
+}
+section{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.card{
+  margin: 3%;
+  border: none !important;
+  border-radius: 55px 55px 55px 55px;
+  box-shadow: 8px 9px 12px 1px #acabab;
+
+}
+.card-group{
+  width: auto;
+  height:auto;
+}
+ul li {
+  margin-bottom: 2%;
+}
+
+
+.Whyussection  {
+background-color: rgb(252, 252, 252);
+}
+
+.Whyussection .card img{
+  height: fit-content;
+  width: fit-content;
+  margin: auto;
+}
+
+.Historysection .card img{
+  height: fit-content;
+  width: fit-content;
+  margin: auto;
+}
+
+.Featuressection .card , .Servicessection .card .Customersection .card{
+  box-shadow: none;
+ 
+}
+ 
+.Historysection .card ,.Servicessetpssection .card , .Customersection .card {
+margin: 2%;
+  
+}
+
+.Historysection .card img ,.Servicessetpssection .card img , .Customersection .card img{
+  height: 128px;
+  width: 128px;
+  margin: auto;
+
+}
+.Customersection .card{
+  margin: 3%;
+}
